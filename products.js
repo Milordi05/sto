@@ -52,6 +52,42 @@ const products = [
 		price1: 7, price: 4, percentage: 0 ,
 		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
 	},
+	{
+	
+		id: 4 ,
+		notice: "منتج رائع",
+		image: 'product4/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
+		link: 'product4/index.html' ,
+		category: 'cat2',
+		title: ' المنتج  ' ,
+		description: 'وصف قصير للمنتج '  ,
+		price1: 7, price: 4, percentage: 0 ,
+		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
+	},
+	{
+	
+		id: 5 ,
+		notice: "منتج رائع",
+		image: 'product5/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
+		link: 'product5/index.html' ,
+		category: 'cat2',
+		title: ' المنتج  ' ,
+		description: 'وصف قصير للمنتج '  ,
+		price1: 7, price: 4, percentage: 0 ,
+		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
+	},
+	{
+	
+		id: 6 ,
+		notice: "منتج رائع",
+		image: 'product6/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
+		link: 'product6/index.html' ,
+		category: 'cat2',
+		title: ' المنتج  ' ,
+		description: 'وصف قصير للمنتج '  ,
+		price1: 7, price: 4, percentage: 0 ,
+		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
+	},
 	
 	
 ];
