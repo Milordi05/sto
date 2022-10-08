@@ -40,6 +40,18 @@ const products = [
 		price1: 200, price: 293, percentage: 0 ,
 		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
 	},
+	{
+	
+		id: 3 ,
+		notice: "منتج رائع",
+		image: 'product3/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
+		link: 'product3/index.html' ,
+		category: 'cat2',
+		title: ' المنتج  ' ,
+		description: 'وصف قصير للمنتج '  ,
+		price1: 7, price: 4, percentage: 0 ,
+		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
+	},
 	
 	
 ];
