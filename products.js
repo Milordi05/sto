@@ -19,74 +19,22 @@ const products = [
 	{
 	
 		id: 1 ,
-		notice: " مميز",
+		notice: " منتج رائع",
 		image: 'product1/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
 		link: 'product1/index.html' ,
-		category: 'cat3',
-		title: 'اسم المنتج' ,
-		description: 'وصف قصير للمنتج '  ,
-		price1: 0, price: 0, percentage: 0 ,
-		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
-	},
-	{
-	
-		id: 2 ,
-		notice: "منتج رائع",
-		image: 'product2/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
-		link: 'product2/index.html' ,
-		category: 'cat2',
-		title: 'اسم المنتج  ' ,
-		description: 'وصف قصير للمنتج '  ,
-		price1: 200, price: 293, percentage: 0 ,
-		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
-	},
-	{
-	
-		id: 3 ,
-		notice: "منتج رائع",
-		image: 'product3/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
-		link: 'product3/index.html' ,
-		category: 'cat2',
-		title: ' المنتج  ' ,
-		description: 'وصف قصير للمنتج '  ,
-		price1: 7, price: 4, percentage: 0 ,
-		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
-	},
-	{
-	
-		id: 4 ,
-		notice: "منتج رائع",
-		image: 'product4/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
-		link: 'product4/index.html' ,
-		category: 'cat2',
-		title: ' المنتج  ' ,
-		description: 'وصف قصير للمنتج '  ,
-		price1: 7, price: 4, percentage: 0 ,
-		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
-	},
-	{
-	
-		id: 5 ,
-		notice: "منتج رائع",
-		image: 'product5/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
-		link: 'product5/index.html' ,
-		category: 'cat2',
-		title: ' المنتج  ' ,
-		description: 'وصف قصير للمنتج '  ,
-		price1: 7, price: 4, percentage: 0 ,
-		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
-	},
-	{
-	
-		id: 6 ,
-		notice: "منتج رائع",
-		image: 'product6/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
-		link: 'product6/index.html' ,
-		category: 'cat2',
-		title: ' المنتج  ' ,
-		description: 'وصف قصير للمنتج '  ,
-		price1: 7, price: 4, percentage: 0 ,
-		description2: '  هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج هنا نكتب وصف المنتج '  ,
+		category: 'cat1',
+		title: ' منشر الملابس' ,
+		description: ' منشر الملابس للاستعمال في اماكن عديدة '  ,
+		price1: '', price: 5900, percentage: 0 ,
+		description2: ' مصنوع من الحديد عالي الجودة و تم دهنه بطلاء مضاد للرطوبة و الصدأ
+الأسلاك مصنوعة من الألمنيوم الذي يتميز بوزنه الخفيف و مقاومته للماء
+و الرطوبة هو الآخر
+سمكه لا يتجاوز 3 سم حيث سيوفر لك الكثير من المساحة كما أن تصميمه
+جميل و سيعطي لمسة إبداعية في ديكور بيتك
+أحصل عليه اليوم بتخفيض 20% 
+زائد توصيل مجاني
+ العرض ساري لفترة قصيرة
+و الكمية جد محدودة '  ,
 	},
 	
 	
