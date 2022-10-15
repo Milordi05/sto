@@ -19,7 +19,7 @@ const products = [
 	{
 	
 		id: 1 ,
-		notice: " منتج رائع",
+		notice: " جديد",
 		image: 'product1/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
 		link: 'product1/index.html' ,
 		category: 'cat2',
@@ -35,10 +35,10 @@ const products = [
 		image: 'product2/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
 		link: 'product2/index.html' ,
 		category: 'cat2',
-		title: ' منشر الملابس' ,
-		description: ' منشر الملابس للاستعمال في اماكن عديدة '  ,
-		price1:5000, price: 4000, percentage: 0 ,
-		description2: ' مصنوع من الحديد عالي الجودة و تم دهنه بطلاء مضاد للرطوبة و الصدأ الاسلاك مصنوعة من الالمنيوم الذي يتميز بوزنه الخفيف و مقاومته للماءو الرطوبة سمكه لا يتجاوز 3 سم حيث سيوفر لك الكثير من المساحةكما ان تصميمه جميل و سيعطي لمسة ابداعية في ديكور بيتك'  ,
+		title: ' عسل الرجال' ,
+		description:   ,
+		price1:3500, price: 4200, percentage: 0 ,
+		description2: ''  ,
 	},
 	
 	
