@@ -134,9 +134,16 @@ font-size: 23px;
   <form id="sign_up_user" action="files/thankyou.html"  method="post" name="google-sheet" >
     <div class="product__form" >
       <div class="product__fmmn">
-      
-      
       <div class="product__frmi d-f fxw-w">
+	      
+	       <!-- لتغير الكمية-->
+        <h6  style="    text-align: center; ">👇اختر الكمية من هنا👇</h6>
+         <select name="varient" style="margin-top:10px ;background-color: #fff; border: 1px solid #dadada;margin-bottom:10px ;" class="product__ftin2" required="" onkeyup="isEmpty()">
+             <option>أريد علبة واحدة ب 3200 دج</option>
+             <option>أريد علبتين واحدة ب 5000 دج</option>
+             <option>أريد 3 علب واحدة ب 6000 دج</option>
+         </select>
+	      
           <input style="width:49%" for="FullName"  name="Name"autocomplete="off" required type="text" class="product__ftin" placeholder="الإسم " required="" onkeyup="isEmpty()">
           <div style="width: 2%;"></div>
           <input for="FullName" style="width:48%;" name="Phone" autocomplete="off" type="number" class="product__ftin" required placeholder="رقم الهاتف" required="" onkeyup="isEmpty()">
@@ -194,18 +201,11 @@ font-size: 23px;
 
                           </select>
 
-
-
-
-
-
-
-
-
-
-
-
   <input for="FullName" style="margin-top:10px"  required name="البلدية"  type="text" class="product__ftin2" placeholder="البلدية"  onkeyup="isEmpty()">
+	      
+	       <!--لتغير سعر و مدة التوصيل-->
+  <h6 style="width:100% ;">سعر التوصيل 600 دج و مدة التوصيل 1-3 أيام</h6>
+	      
   
   <input style="display:none" value="product6"  name="Product"  type="text">
  
