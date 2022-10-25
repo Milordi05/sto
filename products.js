@@ -37,7 +37,7 @@ const products = [
 		category: 'cat2',
 		title: ' عسل الرجال' ,
 		description: '' ,
-		price1:3500, price: 4200, percentage: 0 ,
+		price1:4200, price: 3500, percentage: 0 ,
 		description2: ''  ,
 	},
 	{
