@@ -33,7 +33,7 @@ const products = [
 		id: 2 ,
 		notice: " منتج رائع",
 		image: 'product2/img/1.png',image2: 'img/2.png',image3: 'img/3.png',image4: 'img/4.png',image5: 'img/5.png',image6: 'img/6.png',
-		link: 'product2/index.html' ,
+		link: 'miele/index.html' ,
 		category: 'cat2',
 		title: ' عسل الرجال' ,
 		description: '' ,
